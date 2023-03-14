@@ -3,7 +3,7 @@
 //环境变量:ALI_TOKEN,多账号用换行或,或@或&分隔
 
 const $ = API();
-let refresh_token = [];
+let refresh_token = ["eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJzdWIiOiJjMmY4MmEzY2VlZDI0OTFiOTkxNjA5YmVhNDA4YTUzMSIsImF1ZCI6Ijc2OTE3Y2NjY2Q0NDQxYzM5NDU3YTA0ZjYwODRmYjJmIiwiZXhwIjoxNjg2NTM2NTI4LCJpYXQiOjE2Nzg3NjA1Mjh9.G9g2bC9at6i8y4Xn8k65Ie6KczcaeJfh-zDb8wJdewo6hVZ8NAb4_a80X9HXHUKhOrouBm0VPEFzZxEIOaLGzQ"];
 let msg = '';
 !(async () => {
 
